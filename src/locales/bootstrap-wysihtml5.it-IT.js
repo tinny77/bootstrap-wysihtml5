@@ -11,7 +11,8 @@
         emphasis: {
               bold: "Grassetto",
               italic: "Corsivo",
-              underline: "Sottolineato"
+              underline: "Sottolineato",
+              small: "Piccolo"
         },
         lists: {
               unordered: "Lista non ordinata",
